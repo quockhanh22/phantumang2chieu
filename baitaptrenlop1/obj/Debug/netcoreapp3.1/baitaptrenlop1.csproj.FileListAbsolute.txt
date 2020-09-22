@@ -1,0 +1,13 @@
+C:\Users\Admin\Source\Repos\baitaptrenlop1\baitaptrenlop1\bin\Debug\netcoreapp3.1\baitaptrenlop1.exe
+C:\Users\Admin\Source\Repos\baitaptrenlop1\baitaptrenlop1\bin\Debug\netcoreapp3.1\baitaptrenlop1.deps.json
+C:\Users\Admin\Source\Repos\baitaptrenlop1\baitaptrenlop1\bin\Debug\netcoreapp3.1\baitaptrenlop1.runtimeconfig.json
+C:\Users\Admin\Source\Repos\baitaptrenlop1\baitaptrenlop1\bin\Debug\netcoreapp3.1\baitaptrenlop1.runtimeconfig.dev.json
+C:\Users\Admin\Source\Repos\baitaptrenlop1\baitaptrenlop1\bin\Debug\netcoreapp3.1\baitaptrenlop1.dll
+C:\Users\Admin\Source\Repos\baitaptrenlop1\baitaptrenlop1\bin\Debug\netcoreapp3.1\baitaptrenlop1.pdb
+C:\Users\Admin\Source\Repos\baitaptrenlop1\baitaptrenlop1\obj\Debug\netcoreapp3.1\baitaptrenlop1.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\baitaptrenlop1\baitaptrenlop1\obj\Debug\netcoreapp3.1\baitaptrenlop1.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\baitaptrenlop1\baitaptrenlop1\obj\Debug\netcoreapp3.1\baitaptrenlop1.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\baitaptrenlop1\baitaptrenlop1\obj\Debug\netcoreapp3.1\baitaptrenlop1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\baitaptrenlop1\baitaptrenlop1\obj\Debug\netcoreapp3.1\baitaptrenlop1.dll
+C:\Users\Admin\Source\Repos\baitaptrenlop1\baitaptrenlop1\obj\Debug\netcoreapp3.1\baitaptrenlop1.pdb
+C:\Users\Admin\Source\Repos\baitaptrenlop1\baitaptrenlop1\obj\Debug\netcoreapp3.1\baitaptrenlop1.genruntimeconfig.cache
